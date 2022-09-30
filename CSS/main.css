@@ -82,7 +82,7 @@ li a:hover{
 }
 
 .about{
-    background-color: #FAE8EB;
+    background-color: lightskyblue;
     height: 100%;
     font-size: 25px;
     color: #3C362A;
@@ -123,7 +123,7 @@ li a:hover{
 }
 
 .aspirations{
-    background-color: #FAE8EB;
+    background-color: lightskyblue;
     height: 250px;
     font-size: 25px;
     color: #3C362A;
@@ -162,7 +162,7 @@ li a:hover{
 }
 
 .hobbie{
-    background-color: #FAE8EB;
+    background-color: lightskyblue;
     height: 100%;
     font-size: 25px;
     color: #3C362A;
@@ -207,7 +207,7 @@ footer{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #FAE8EB;
+    background-color: lightskyblue;
 }
 
 .fa {
